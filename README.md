@@ -1,4 +1,4 @@
 # JustView
-JustView is a simplest image viewer for linux.
+JustView is a simplest image viewer.
 
 ![JustView screenshot](/screenshot.png)
